@@ -1,0 +1,18 @@
+[
+    {
+        "model": "cleoyogaapi.savedposecard",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "pose_card": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.savedposecard",
+        "pk": 2,
+        "fields": {
+            "user": 1,
+            "pose_card": 8
+        }
+    }
+]

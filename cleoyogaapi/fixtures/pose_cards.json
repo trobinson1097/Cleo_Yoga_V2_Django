@@ -1,0 +1,566 @@
+[
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 1,
+        "fields": {
+            "sanskrit_name": "Navasana",
+            "english_name": "Boat",
+            "description": "Boat Pose builds focus and body awareness. It can boost energy and fight fatigue, and help build confidence and empowerment. Boat Pose also improves posture and counteracts the effects of prolonged sitting and doing computer work by strengthening your core and thighs.",
+            "image": "https://www.dropbox.com/s/4m64ztxkj8a4dab/boatstraightlegs.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 2,
+        "fields": {
+            "sanskrit_name": "Dhanurasana",
+            "english_name": "Bow",
+            "description": "Like all backbends, Bow Pose is energizing and stimulates the adrenal glands, which can help you fight fatigue. It also increases blood flow to your digestive system. It may help to build confidence and empowerment. Bow Pose also improves posture and counteracts the effects of sitting for extended periods of time, such as slouching and kyphosis (abnormal curvature of the spine). It may help relieve back pain. It stretches your abdomen, chest, shoulders, front of your hips (hip flexors), and the front of your thighs (quadriceps). Bow Pose strengthens your back muscles, the back of your thighs, and buttocks (glutes).",
+            "image": "https://www.dropbox.com/s/wizj5kwxvez4c0a/bow.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 3,
+        "fields": {
+            "sanskrit_name": "Setu Bandha Sarvangasana",
+            "english_name": "Bridge",
+            "description": "Bridge Pose improves posture and counteracts the effects of prolonged sitting and computer work. It may help relieve low back pain and can counteract slouching and kyphosis (abnormal curvature of the spine). The pose gently stretches your abdomen, chest, and the area around your shoulders while strengthening your back muscles, buttocks (glutes), thighs, and ankles.",
+            "image": "https://www.dropbox.com/s/f1w64ybg4sn8ejt/bridge.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 4,
+        "fields": {
+            "sanskrit_name": "Baddha Konasana",
+            "english_name": "Butterfly",
+            "description": "Bound Angle Pose can help you recover after running or other activities. It improves postural and body awareness and stretches your groins, inner thigh muscles (adductors), and front of your thighs (quadriceps).",
+            "image": "https://www.dropbox.com/s/3h2pts6xbn28dh7/butterfly%3F.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 5,
+        "fields": {
+            "sanskrit_name": "Ustrasana",
+            "english_name": "Camel",
+            "description": "Camel Pose can help build confidence and empowerment. It improves your posture and counteracts the effects of prolonged sitting, slouching, and kyphosis (abnormal curvature of the spine). It may also help relieve back pain. Camel Pose stretches your abdomen, chest, shoulders, the front of your hips (hip flexors), and the front of your thighs (quadriceps). It also strengthens your back muscles, the back of your thighs (hamstrings), and buttocks (glutes).",
+            "image": "https://www.dropbox.com/s/o5gr4lngltsdg5r/camel.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 6,
+        "fields": {
+            "sanskrit_name": "Marjaryasana",
+            "english_name": "Cat",
+            "description": "Cat Pose warms up your spine, shoulders, and hips. It improves posture, and counteracts the effects of sitting and computer work.",
+            "image": "https://www.dropbox.com/s/cginnz98of2jpgr/cat.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 7,
+        "fields": {
+            "sanskrit_name": "Bitilasana",
+            "english_name": "Cow",
+            "description": "Cow Pose warms up your spine, shoulders, and hips to prepare for a rigorous yoga asana practice. It can be calming, relaxing, and help you manage stress.",
+            "image": "https://www.dropbox.com/s/neau4ceai1rskh6/cow.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 8,
+        "fields": {
+            "sanskrit_name": "Utkatasana",
+            "english_name": "Chair",
+            "description": "Chair Pose improves balance and can build cardiovascular health and resilience. It primarily strengthens your core, thighs, and ankles.",
+            "image": "https://www.dropbox.com/s/9emlawz8vayk8bm/chair.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 9,
+        "fields": {
+            "sanskrit_name": "Balasana",
+            "english_name": "Child's Pose",
+            "description": "Child's Pose gently stretches the hips, thighs, and ankles. It relieves back and neck pain when done with head and torso supported. Balasana also calms the brain and helps relieve stress and fatigue.",
+            "image": "https://www.dropbox.com/s/ini3uwali0q5gxa/child.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 10,
+        "fields": {
+            "sanskrit_name": "Sivasana",
+            "english_name": "Corpse",
+            "description": "Savasana calms the brain and helps relieve stress and mild depression. It also relaxes the body, reduces headache, fatigue, and insomnia, and helps to lower blood pressure.",
+            "image": "https://www.dropbox.com/s/eohyx2crvtjvaxb/sivasana.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 11,
+        "fields": {
+            "sanskrit_name": "Alanasana",
+            "english_name": "Crescent Lunge",
+            "description": "",
+            "image": "https://www.dropbox.com/s/1oc1dqv8mfwo8uj/highlunge.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 12,
+        "fields": {
+            "sanskrit_name": "Bakasana",
+            "english_name": "Crow",
+            "description": "Crow Pose and Crane Pose improve focus, and stretch your buttocks (glutes), your back, and the palm sides of your wrists (wrist flexors). These poses also strengthen your core, upper back, chest, front of your hips (hip flexors), back of your thighs (hamstrings), arms, shoulders, forearms, and back of your wrists (wrist extensors).",
+            "image": "https://www.dropbox.com/s/ukaxoioh0uooswj/crow.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 13,
+        "fields": {
+            "sanskrit_name": "Ardha Pincha Mayurasana",
+            "english_name": "Dolphin",
+            "description": "Calms the brain and helps relieve stress and mild depression. Stretches the shoulders, hamstrings, calves, and arches. Strengthens the arms and legs. Helps relieve the symptoms of menopause.Relieves menstrual discomfort when done with head supported.Helps prevent osteoporosis. Improves digestion. Relieves headache, insomnia, back pain, and fatigue. Therapeutic for high blood pressure, asthma, flat feet, sciatica",
+            "image": "https://www.dropbox.com/s/px1foombb3v24se/dolphin.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 14,
+        "fields": {
+            "sanskrit_name": "Adho Mukha Svanasana",
+            "english_name": "Downward-Facing Dog",
+            "description": "Downward-Facing Dog Pose tones the arms and legs, opens and strengthens the shoulders in flexion, lengthens the hamstrings, stretches the calves, and prepares the body for heating.",
+            "image": "https://www.dropbox.com/s/75xa1bduu2u5y7d/downdog.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 15,
+        "fields": {
+            "sanskrit_name": "Garudasana",
+            "english_name": "Eagle",
+            "description": "Eagle Pose improves balance and focus, and postural and body awareness. It stretches around your shoulders, upper back, and thighs, as it strengthens your core, thighs, legs, and ankles.",
+            "image": "https://www.dropbox.com/s/w05qgx7wyxva1y3/eagle.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 16,
+        "fields": {
+            "sanskrit_name": "Utthita Hasta Padangusthasana",
+            "english_name": "Extended Hand to Toe",
+            "description": "Extended Hand-to-Big Toe Pose improves balance, postural and body awareness, and can boost energy and fight fatigue. It can help build confidence and empowerment, improves posture, and counteracts the effects of prolonged sitting and doing computer work. On the lifted leg, the back of your thigh (hamstring), calf, and inner thigh (adductor) get stretched. On the standing leg, your thigh, buttock (glute), and around your ankle get strengthened.",
+            "image": "https://www.dropbox.com/s/0yk0z7f0a4ni37l/extendedhandtotoe.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 17,
+        "fields": {
+            "sanskrit_name": "Utthita Parsvakonasana",
+            "english_name": "Extended Side Angle",
+            "description": "Extended Side Angle Pose improves balance, boosts energy, and fights fatigue. It improves posture and counteracts the effects of prolonged sitting and doing computer work, and may help build confidence and a sense of empowerment.",
+            "image": "https://www.dropbox.com/s/yzynxmyb9o7eras/extendedsideangle.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 18,
+        "fields": {
+            "sanskrit_name": "Pincha Mayurasana",
+            "english_name": "Forearm Stand",
+            "description": "Forearm Stand improves postural and body awareness, circulation (both lymphatic and venous), and your posture. It can boost energy and fight fatigue and build confidence and empowerment. Feathered Peacock mainly strengthens your core, back, chest, arms, shoulders, thighs, and buttocks (glutes).",
+            "image": "https://www.dropbox.com/s/kjlyju4m91qgoi6/forearmstand.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 19,
+        "fields": {
+            "sanskrit_name": "Uttanasana",
+            "english_name": "Forward Bend with Shoulder Opener",
+            "description": "Standing Forward Bend calms the brain and helps relieve stress. This pose also stimulates the liver and kidneys, and stretches the hamstrings, calves, and hips.",
+            "image": "https://www.dropbox.com/s/sjqfq99pqpelv4v/forwardfoldshoulderstretch.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 20,
+        "fields": {
+            "sanskrit_name": "Ardha Chandrasana",
+            "english_name": "Half-Moon",
+            "description": "Half Moon Pose is good for strengthening both legs evenly, teaching coordination, and helping you focus.",
+            "image": "https://www.dropbox.com/s/gpumf9eehr8wo9g/halfmoon.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 21,
+        "fields": {
+            "sanskrit_name": "Adho Mukha Vrksasana",
+            "english_name": "Handstand",
+            "description": "Handstand builds strength in the shoulders, back, and abdomen, while uplifting your mood and increasing confidence.",
+            "image": "https://www.dropbox.com/s/p7pf5j0untktn9c/handstand.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 22,
+        "fields": {
+            "sanskrit_name": "Anjaneyasana",
+            "english_name": "Low Lunge",
+            "description": "Low Lunge, or Anjaneyasana in Sanskrit, stretches the thighs and groins and opens the chest. It provides recovery post-workout, and boosts energy while consciously working to improve posture.",
+            "image": "https://www.dropbox.com/s/h0ehjaz1wa9xfu1/lowlunge.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 23,
+        "fields": {
+            "sanskrit_name": "Supta Kapotasana",
+            "english_name": "Pigeon",
+            "description": "",
+            "image": "https://www.dropbox.com/s/77peru289zm446u/pigeon.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 24,
+        "fields": {
+            "sanskrit_name": "Eka Pada Rajakapotasana",
+            "english_name": "King Pigeon",
+            "description": "Kapotasana invigorates your body and gives your spirits a lift. This extremely deep backbend is appropriate for advanced practitioners only.",
+            "image": "https://www.dropbox.com/s/10usd0gcqgy6o53/kingpigeon.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 25,
+        "fields": {
+            "sanskrit_name": "Phalakasana",
+            "english_name": "Plank",
+            "description": "",
+            "image": "https://www.dropbox.com/s/jg6ge8zpaltx10f/plank.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 26,
+        "fields": {
+            "sanskrit_name": "Halasana",
+            "english_name": "Plow",
+            "description": "",
+            "image": "https://www.dropbox.com/s/zi9231wbajm6d2m/plow.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 27,
+        "fields": {
+            "sanskrit_name": "Parsvottanasana",
+            "english_name": "Pyramid",
+            "description": "",
+            "image": "https://www.dropbox.com/s/j7p2600bmf840e0/pyramid.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 28,
+        "fields": {
+        "sanskrit_name": "Parsva Virabhadrasana",
+        "english_name": "Reverse Warrior",
+        "description": "",
+        "image": "https://www.dropbox.com/s/q6yn6cb9fglo0wp/reverswarrior.svg?raw=1",
+        "level": 1,
+        "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 29,
+        "fields": {
+            "sanskrit_name": "Paschimottanasana",
+            "english_name": "Seated Forward Bend",
+            "description": "",
+            "image": "https://www.dropbox.com/s/ji0otecqx42by00/seatedforwardfold.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 30,
+        "fields": {
+            "sanskrit_name": "Padmasana",
+            "english_name": "Lotus",
+            "description": "",
+            "image": "https://www.dropbox.com/s/0oylivjwzuj5fnp/seatedORlotus.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 31,
+        "fields": {
+            "sanskrit_name": "Ardha Matsyendrasana",
+            "english_name": "Half Lord of the Fishes",
+            "description": "",
+            "image": "https://www.dropbox.com/s/u9joi8lbntxumyh/seatedspinaltwist.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 32,
+        "fields": {
+            "sanskrit_name": "Salamba Sarvangasana",
+            "english_name": "Shoulder Stand",
+            "description": "",
+            "image": "https://www.dropbox.com/s/tqj48exec3zub2u/shoulderstand.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 33,
+        "fields": {
+            "sanskrit_name": "Vasisthasana",
+            "english_name": "Side Plank",
+            "description": "",
+            "image": "https://www.dropbox.com/s/w35ciia4u570xj8/sideplank.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 34,
+        "fields": {
+            "sanskrit_name": "Salamba Bhujangasana",
+            "english_name": "Sphinx",
+            "description": "",
+            "image": "https://www.dropbox.com/s/cl8teqpf9yingwm/sphinx.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 35,
+        "fields": {
+            "sanskrit_name": "Hanumanasana",
+            "english_name": "Splits",
+            "description": "",
+            "image": "https://www.dropbox.com/s/u8dxhc41hjfcxj6/splits.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 36,
+        "fields": {
+            "sanskrit_name": "Malasana",
+            "english_name": "Squat",
+            "description": "",
+            "image": "https://www.dropbox.com/s/ntrwtdlr6tdkdxz/squat.svg?raw=1",
+            "level": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 37,
+        "fields": {
+            "sanskrit_name": "Uttanasana",
+            "english_name": "Standing Forward Bend",
+            "description": "",
+            "image": "https://www.dropbox.com/s/u09snmhtposvaq0/standingforwardfold.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 38,
+        "fields": {
+            "sanskrit_name": "Ashta Chandrasana",
+            "english_name": "Crescent Moon",
+            "description": "",
+            "image": "https://www.dropbox.com/s/9tv6z3qdcw2vg3a/standingstretch.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 39,
+        "fields": {
+            "sanskrit_name": "Upavistha Konasana",
+            "english_name": "Side Splits",
+            "description": "",
+            "image": "https://www.dropbox.com/s/6z51vzosovhx5w7/straddlesplit.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 40,
+        "fields": {
+            "sanskrit_name": "Vrksasana",
+            "english_name": "Tree",
+            "description": "",
+            "image": "https://www.dropbox.com/s/mn2ktlihp12mtfa/tree.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 41,
+        "fields": {
+            "sanskrit_name": "Trikonasana",
+            "english_name": "Triangle",
+            "description": "",
+            "image": "https://www.dropbox.com/s/l41pfqjwmjoy5os/triangle.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 42,
+        "fields": {
+            "sanskrit_name": "Urdhva Mukha Svsnssana",
+            "english_name": "Upward-Facing Dog",
+            "description": "",
+            "image": "https://www.dropbox.com/s/vnfx1srlwt1583t/updog.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 43,
+        "fields": {
+            "sanskrit_name": "Virabhadrasana One",
+            "english_name": "Warrior One",
+            "description": "",
+            "image": "https://www.dropbox.com/s/j9fip5gm1o1l3fx/warrior1.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 44,
+        "fields": {
+            "sanskrit_name": "Virabhadrasana Two",
+            "english_name": "Warrior Two",
+            "description": "",
+            "image": "https://www.dropbox.com/s/rsb3mx41dfq4otl/warrior2.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 45,
+        "fields": {
+            "sanskrit_name": "Virabhadrasana Three",
+            "english_name": "Warrior Three",
+            "description": "",
+            "image": "https://www.dropbox.com/s/lwgoky3z37ameif/warrior3.svg?raw=1",
+            "level": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 46,
+        "fields": {
+            "sanskrit_name": "Urdhva Dhanurasana",
+            "english_name": "Wheel",
+            "description": "",
+            "image": "https://www.dropbox.com/s/kpa1bewuut3lm5q/wheel.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "cleoyogaapi.posecard",
+        "pk": 47,
+        "fields": {
+            "sanskrit_name": "Camatkarasana",
+            "english_name": "Wild Thing",
+            "description": "",
+            "image": "https://www.dropbox.com/s/d1dbdvo4l7xry4w/downdogflip.svg?raw=1",
+            "level": 3,
+            "user": 1
+        }
+    }
+]

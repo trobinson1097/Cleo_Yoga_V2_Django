@@ -1,0 +1,23 @@
+[
+    {
+        "model": "cleoyogaapi.level",
+        "pk": 1,
+        "fields": {
+            "name": "Beginner"
+        }
+    },
+    {
+        "model": "cleoyogaapi.level",
+        "pk": 2,
+        "fields": {
+            "name": "Intermediate"
+        }
+    },
+    {
+        "model": "cleoyogaapi.level",
+        "pk": 3,
+        "fields": {
+            "name": "Experienced"
+        }
+    }
+]
